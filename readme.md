@@ -1,0 +1,2 @@
+# szornyecskek
+gridek gyakorlása
